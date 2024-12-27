@@ -41,5 +41,12 @@
         "url": "https://www.youtube.com/watch?v=iZKAPfmb-8s",
         "thumbnail": "https://img.youtube.com/vi/iZKAPfmb-8s/hqdefault.jpg",
         "category": "Sinh nhật"
+    },
+    {
+        "id": 7,
+        "title": "Trò chơi con mực (test)",
+        "description": "squid game part 2",
+        "url": "https://iplayerhls.com/ha4dw3ng2crr",
+        "thumbnail": "https://staticg.sportskeeda.com/editor/2024/12/7801d-17352197778974-1920.jpg?w=640"
     }
 ]
